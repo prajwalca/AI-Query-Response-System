@@ -34,16 +34,16 @@ Google Form
 ## Project Screenshots
 
 ### Google Form
+<img width="1440" height="900" alt="google_form" src="https://github.com/user-attachments/assets/f278167c-9ce1-4208-a73f-9621803d9226" />
 
-(Add Screenshot)
 
 ### Make.com Workflow
+<img width="1440" height="855" alt="make_ai_workflow" src="https://github.com/user-attachments/assets/ee699f61-3b8e-4fa6-86cd-0473ae51ab35" />
 
-(Add Screenshot)
 
 ### AI Response Output
+<img width="1440" height="900" alt="ai_response_output" src="https://github.com/user-attachments/assets/377f1694-7ceb-486c-b8f2-c6d2b9437cfa" />
 
-(Add Screenshot)
 
 ## Shared Scenario
 
